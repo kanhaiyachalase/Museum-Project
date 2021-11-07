@@ -2,7 +2,7 @@
 
 
 
-# Meseum-Project
+# Museum-Project
 This is Meseum websites using HTML,CSS and js
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/79249131/138421364-77074eac-6e2c-4293-a41c-b55fb60b6bed.png)
